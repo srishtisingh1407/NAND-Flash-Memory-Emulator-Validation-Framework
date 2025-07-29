@@ -27,10 +27,6 @@ NAND-Flash-Emulator/
 ├── csv_failure_trend.png # 📊 Output from CSV write mode
 ├── README.md # 📘 This file!
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔄 How to Run
