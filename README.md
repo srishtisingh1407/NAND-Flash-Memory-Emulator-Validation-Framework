@@ -47,7 +47,7 @@ csvwrite	Write using data from CSV
 show	Display full NAND memory
 exit	Exit the emulator
 ```
-🧪 Sample CSV File
+## 🧪 Sample CSV File
 This is what your spicy_nand_data.csv should look like:
 
 csv
@@ -64,7 +64,7 @@ I/O error_9
 Pass check_9
 Use this with csvwrite mode to simulate real-world data inputs.
 
-📊 Sample Outputs
+## 📊 Sample Outputs
 🔁 Simulate Mode
 Plots a failure trend across 100 randomized writes:
 
@@ -74,7 +74,7 @@ Plots failures during batch write from CSV:
 
 
 
-💻 Technologies Used
+## 💻 Technologies Used
 🐍 Python 3
 
 📊 Matplotlib
