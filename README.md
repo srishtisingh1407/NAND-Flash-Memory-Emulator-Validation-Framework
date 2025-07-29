@@ -46,7 +46,7 @@ simulate	Run 100 simulated writes and show failure trend
 csvwrite	Write using data from CSV
 show	Display full NAND memory
 exit	Exit the emulator
-
+```
 🧪 Sample CSV File
 This is what your spicy_nand_data.csv should look like:
 
