@@ -2,8 +2,7 @@
 
 An end-to-end **Python simulation of NAND flash memory operations**, built for demonstrating validation workflows typically done in semiconductor product design engineering roles.
 
-💡 **No hardware required**  
-💻 **CLI-based, beginner-friendly, and 100% resume-ready**
+💻 **CLI-based and beginner-friendly**
 
 ---
 
