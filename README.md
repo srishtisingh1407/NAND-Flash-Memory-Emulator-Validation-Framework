@@ -1,4 +1,4 @@
-# 🔥 NAND Flash Memory Emulator & Validation Framework
+#  NAND Flash Memory Emulator & Validation Framework
 
 An end-to-end **Python simulation of NAND flash memory operations**, built for demonstrating validation workflows typically done in semiconductor product design engineering roles.
 
